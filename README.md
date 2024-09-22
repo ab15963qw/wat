@@ -1,1 +1,8 @@
-test
+1.註冊 API 密鑰：
+
+首先，你需要在 OpenWeatherMap 註冊一個帳號並獲取一個 API 金鑰。
+
+
+2.安裝依賴：
+使用 pip 安裝 Flask 和 requests 模塊來處理 HTTP 請求：
+pip install Flask requests
