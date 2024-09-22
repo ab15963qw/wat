@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>天氣預報</title>
+</head>
+<body>
+    <h1>天氣預報</h1>
+    {% if weather %}
+        <h2>{{ city }}的天氣狀況：</h2>
+        <p>溫度: {{ weather.temperature }}°C</p>
+        <p>天氣描述: {{ weather.description }}</p>
+        <p>濕度: {{ weather.humidity }}%</p>
+        <p>風速: {{ weather.wind_speed }} m/s</p>
+    {% elif error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <a href="/">返回</a>
+</body>
+</html>
