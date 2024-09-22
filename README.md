@@ -26,8 +26,17 @@ pip install Flask requests
 ![image](https://github.com/ab15963qw/wat/blob/main/3%202024-09-23%20010439.png)
 
 
+
+
+
+
 查詢城市的天氣
+
+
 ![image](https://github.com/ab15963qw/wat/blob/main/Check%20the%20city%E2%80%99s%20weather.png)
+
+
+
 
 
 
