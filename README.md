@@ -9,4 +9,4 @@ pip install Flask requests
 
 
 
-![image]([picture or gif url](https://github.com/ab15963qw/wat/blob/main/3%202024-09-23%20010439.png))
+![image](https://github.com/ab15963qw/wat/blob/main/3%202024-09-23%20010439.png)
