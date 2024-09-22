@@ -6,3 +6,7 @@
 2.安裝依賴：
 使用 pip 安裝 Flask 和 requests 模塊來處理 HTTP 請求：
 pip install Flask requests
+
+
+
+![image]([picture or gif url](https://github.com/ab15963qw/wat/blob/main/3%202024-09-23%20010439.png))
